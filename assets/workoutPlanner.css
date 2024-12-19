@@ -53,9 +53,6 @@
     background-color: transparent;
     height: 48px;
 }
-.inputClickables:hover {
-    background-color: #70bcfa;
-}
 
 #btnCheckBox{
     transform: scale(1.2); /* Scale the checkbox size */
@@ -96,9 +93,7 @@
     transition: background-color 0.3s;
 }
 
-.arrow-button:hover {
-    background-color: #70bcfa;
-}
+
 
 .arrow {
     position: absolute;
