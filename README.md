@@ -3,4 +3,4 @@ I needed a site to parse my worksets and tell me what my warmups are. Seeing an 
 
 
 ## Website Link
-My Github pages [link](https://eliya-g.github.io/Barbell-Workout-Planner/).
+My Github pages [link](https://eliya-g.github.io/barbell-workout-planner/).
